@@ -72,33 +72,33 @@ streamlit run vid.py
 
 ## 📸 Application Screenshots & Process Flow
 
-### 1. Main Interface
-![Main Interface](screenshots/220800.png)
-*The main application interface with upload and URL input options*
+### 1. Initial Interface
+![Initial Interface](Screenshot%202025-01-05%20220800.png)
+*The main application interface showing the Phidata Video AI Summarizer Agent powered by Gemini 2.0*
 
-### 2. Video Upload Process
-![Video Upload](screenshots/215543.png)
-*Video file upload interface with format support display*
+### 2. Video Analysis Setup
+![Analysis Setup](Screenshot%202025-01-05%20215543.png)
+*Interface for uploading videos and entering YouTube URLs*
 
-### 3. Analysis in Progress
-![Analysis Process](screenshots/215531.png)
-*Video processing and AI analysis in action*
+### 3. Processing Interface
+![Processing](Screenshot%202025-01-05%20215531.png)
+*The processing view showing active video analysis*
 
-### 4. Timestamp Analysis
-![Timestamp Analysis](screenshots/215355.png)
-*Detailed timestamp-based content breakdown*
+### 4. Analysis Progress
+![Analysis Progress](Screenshot%202025-01-05%20215355.png)
+*Detailed view of the analysis progress with timestamps*
 
-### 5. YouTube URL Analysis
-![YouTube Analysis](screenshots/215304.png)
-*YouTube video analysis interface and results*
+### 5. Content Processing
+![Content Processing](Screenshot%202025-01-05%20215304.png)
+*Video content being processed with AI analysis*
 
-### 6. Final Summary
-![Summary View](screenshots/215245.png)
-*Comprehensive video summary and insights display*
+### 6. Results View
+![Results](Screenshot%202025-01-05%20215245.png)
+*Display of comprehensive video analysis results*
 
-### 7. Custom Query Response
-![Query Response](screenshots/215155.png)
-*AI responding to specific user queries about the video content*
+### 7. Final Summary
+![Summary](Screenshot%202025-01-05%20215155.png)
+*Final summary and insights from the video analysis*
 
 ## 🔍 Features In Detail
 
