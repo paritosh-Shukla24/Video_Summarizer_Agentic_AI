@@ -73,19 +73,22 @@ streamlit run vid.py
 ## 📸 Application Screenshots & Process Flow
 
 ### 1. Initial Interface
-![Initial Interface](Screenshot%202025-01-05%20220800.png)
+![Summary](Screenshot%202025-01-05%20215155.png)
+
 *The main application interface showing the Phidata Video AI Summarizer Agent powered by Gemini 2.0*
 
 ### 2. Video Analysis Setup
-![Analysis Setup](Screenshot%202025-01-05%20215543.png)
+![Processing](Screenshot%202025-01-05%20215531.png)
+
 *Interface for uploading videos and entering YouTube URLs*
 
 ### 3. Processing Interface
-![Processing](Screenshot%202025-01-05%20215531.png)
+![Analysis Setup](Screenshot%202025-01-05%20215543.png)
 *The processing view showing active video analysis*
 
 ### 4. Analysis Progress
-![Analysis Progress](Screenshot%202025-01-05%20215355.png)
+
+![Results](Screenshot%202025-01-05%20215245.png)
 *Detailed view of the analysis progress with timestamps*
 
 ### 5. Content Processing
@@ -93,11 +96,11 @@ streamlit run vid.py
 *Video content being processed with AI analysis*
 
 ### 6. Results View
-![Results](Screenshot%202025-01-05%20215245.png)
+![Analysis Progress](Screenshot%202025-01-05%20215355.png)
 *Display of comprehensive video analysis results*
 
 ### 7. Final Summary
-![Summary](Screenshot%202025-01-05%20215155.png)
+![Initial Interface](Screenshot%202025-01-05%20220800.png)
 *Final summary and insights from the video analysis*
 
 ## 🔍 Features In Detail
